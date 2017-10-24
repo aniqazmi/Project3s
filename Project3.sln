@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project3", "Project3\Project3.csproj", "{00CFA77E-EFA9-4526-8FA5-6A281174591B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D4F2BD41-3343-43AA-99C2-8F77B1144488}"
+	ProjectSection(SolutionItems) = preProject
+		..\color.cpp = ..\color.cpp
+		..\color.h = ..\color.h
+		..\color.o = ..\color.o
+		..\driver.cpp = ..\driver.cpp
+		..\driver.h = ..\driver.h
+		..\main.cpp = ..\main.cpp
+		..\main.o = ..\main.o
+		..\ohhi.cpp = ..\ohhi.cpp
+		..\ohhi.h = ..\ohhi.h
+		..\Project3.cbp = ..\Project3.cbp
+		..\Project3.layout = ..\Project3.layout
+		..\test.cpp = ..\test.cpp
+		..\utility.cpp = ..\utility.cpp
+		..\utility.h = ..\utility.h
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00CFA77E-EFA9-4526-8FA5-6A281174591B}.Debug|ARM.ActiveCfg = Debug|ARM
+		{00CFA77E-EFA9-4526-8FA5-6A281174591B}.Debug|ARM.Build.0 = Debug|ARM
+		{00CFA77E-EFA9-4526-8FA5-6A281174591B}.Debug|ARM.Deploy.0 = Debug|ARM
+		{00CFA77E-EFA9-4526-8FA5-6A281174591B}.Debug|x64.ActiveCfg = Debug|x64
+		{00CFA77E-EFA9-4526-8FA5-6A281174591B}.Debug|x64.Build.0 = Debug|x64
+		{00CFA77E-EFA9-4526-8FA5-6A281174591B}.Debug|x64.Deploy.0 = Debug|x64
+		{00CFA77E-EFA9-4526-8FA5-6A281174591B}.Debug|x86.ActiveCfg = Debug|x86
+		{00CFA77E-EFA9-4526-8FA5-6A281174591B}.Debug|x86.Build.0 = Debug|x86
+		{00CFA77E-EFA9-4526-8FA5-6A281174591B}.Debug|x86.Deploy.0 = Debug|x86
+		{00CFA77E-EFA9-4526-8FA5-6A281174591B}.Release|ARM.ActiveCfg = Release|ARM
+		{00CFA77E-EFA9-4526-8FA5-6A281174591B}.Release|ARM.Build.0 = Release|ARM
+		{00CFA77E-EFA9-4526-8FA5-6A281174591B}.Release|ARM.Deploy.0 = Release|ARM
+		{00CFA77E-EFA9-4526-8FA5-6A281174591B}.Release|x64.ActiveCfg = Release|x64
+		{00CFA77E-EFA9-4526-8FA5-6A281174591B}.Release|x64.Build.0 = Release|x64
+		{00CFA77E-EFA9-4526-8FA5-6A281174591B}.Release|x64.Deploy.0 = Release|x64
+		{00CFA77E-EFA9-4526-8FA5-6A281174591B}.Release|x86.ActiveCfg = Release|x86
+		{00CFA77E-EFA9-4526-8FA5-6A281174591B}.Release|x86.Build.0 = Release|x86
+		{00CFA77E-EFA9-4526-8FA5-6A281174591B}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1323681A-F801-4008-9099-FC1F0FA94F7A}
+	EndGlobalSection
+EndGlobal
